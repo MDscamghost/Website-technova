@@ -1,0 +1,8 @@
+{
+  "name": "TECHNOVA - Next Gen Store",
+  "description": "An ultra-modern, AI-powered electronics store featuring deep-thinking Gemini 3 integration and image analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
